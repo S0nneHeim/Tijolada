@@ -1,0 +1,12 @@
+{
+    "name": "TijoladaModpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Modding exclusivo para Tijolada e amigos",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2105",
+        "Azumatt-AzuAntiCheat-4.3.0",
+        "RandyKnapp-EquipmentAndQuickSlots-2.1.7",
+        "Nexus-Clock-1.4.3"
+    ]
+}
